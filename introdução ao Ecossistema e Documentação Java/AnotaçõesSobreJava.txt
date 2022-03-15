@@ -1,0 +1,1 @@
+Java é uma linguagem de programação cujo paradigma mais usado é a programação orientada a objetos.
