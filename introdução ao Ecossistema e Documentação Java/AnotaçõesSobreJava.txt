@@ -6,3 +6,21 @@ Características:
  - Fortemente tipada
  - Linguagem de alto nível
  - Executada em uma JVM (Java Virtual Machine)
+
+O sourcefile .java é compilado para bytecodes .class através do javac para a interpretação do java.
+
+Características da JVM:
+ - Execução de pilhas
+ - Gerenciamento de memória
+ - Gerenciamento de threads
+ - Otimização de código (Compilação JIT - Just In Time)
+ - Garbage Collector (GC)
+
+JRE (Java Runtime Environment)
+JDK (Java Development Kit)
+
+Tipos de plataforma
+
+Java SE (Java Standard Edition)
+Java EE (Java Enterprise Edition)
+Java ME (Java Micro Edition)
