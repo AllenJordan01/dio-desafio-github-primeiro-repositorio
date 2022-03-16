@@ -1,1 +1,8 @@
 Java é uma linguagem de programação cujo paradigma mais usado é a programação orientada a objetos.
+
+Características:
+ - Compilada
+ - Interpretada
+ - Fortemente tipada
+ - Linguagem de alto nível
+ - Executada em uma JVM (Java Virtual Machine)
